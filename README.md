@@ -20,9 +20,7 @@ An interactive drum kit built with HTML, CSS, and JavaScript.
 1. Clone the repository.
 2. Open `index.html` in your browser.
 
-## Screenshot
-
-(Add a screenshot here later.)
+## 
 
 ## Author
 
